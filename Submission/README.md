@@ -44,7 +44,7 @@ The Objective of this assignment is to model the demand for shared bikes with th
 • Low p-value and high vif: Drop the variables one at a time and recheck the vif values
 Total 9 variables were manually dropped and the final model has 11 variables
 
-## Conclusions & Recommendations:
+## Conclusions:
 	
 	Based on the above analysis below conclusions are made:
 	
